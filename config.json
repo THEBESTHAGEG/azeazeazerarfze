@@ -1,0 +1,17 @@
+{
+  "tokens": {
+    "main_token": "NzA3MjA2MDc2ODkzNzU3NDUw.GCZVvs.5LP45Iongkez86zaFVjnDbY040X8oSHUGLLrh8",
+    "alt_tokens": [
+      ""
+    ]
+  },
+  "webhook": {
+    "ping_on_redeem": true,
+    "url": "https://discord.com/api/webhooks/1157735675794305125/l-QRHuhvnNzUOU2WNd0oa6yT_n3d4EMiUtZJb9OEhfa_p7OwjXBeZYe8zujl3nRrsVlf"
+  },
+  "notifications": {
+    "ignore-self": false,
+    "toast-notifications": true,
+    "sound-notifications": true
+  }
+}
